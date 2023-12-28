@@ -19,7 +19,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [SimpleArraySum] <a name="about-project"></a>
-**SimpleArraySum-HackerrankChallenge** is a repo which includes a Hackerrank Challenge named how to make a simple sum of an Array of Integers.
+**SimpleArraySum-HackerrankChallenge** is a repo which includes a Hackerrank Challenge named how to make a simple sum of an Array of Integers. <br/>
 We wrote several methods and some documentation related to it.
 The solutions are in **JavaScript** and **Python**.
 <br/>
@@ -48,13 +48,11 @@ The solutions are in **JavaScript** and **Python**.
 </details>
 
 ### 🌸🌷 Key Features <a name="key-features"></a>
+- **[Method: for in]**
+- **[Method: sum]**
+- **[Method: for of loop]**
 - **[Method: for loop]**
-- **[Method: While]**
-- **[Method: Spread Operator]**
-- **[Method: Array.from]**
-- **[Method: Slice]**
-- **[Method: Print]**
-- **[Method: Slicing syntax usage to make Python perfom reverse functionality]**
+- **[Method: reduce]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +67,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com/IvonneBenitesRodriguez/ds_array_challenge.git
+  git clone git@github.com/IvonneBenitesRodriguez/SimpleArraySum-HackerrankChallenge.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
